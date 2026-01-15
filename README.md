@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center">🚀 Learning to speak with data!</p>
+
